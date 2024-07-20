@@ -1,0 +1,7 @@
+{
+    "version": "2.0.1",
+    "autoload": {
+        "Razer Razer Tartarus Pro": "FFXIV",
+        "Logitech Gaming Mouse G600": "FFXIV"
+    }
+}

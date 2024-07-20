@@ -1,0 +1,146 @@
+[
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 2,
+                "origin_hash": "077959082a0dcea752da4c499e298ded"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_KPMINUS",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 3,
+                "origin_hash": "077959082a0dcea752da4c499e298ded"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KP_Multiply",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 4,
+                "origin_hash": "077959082a0dcea752da4c499e298ded"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KP_Divide",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 5,
+                "origin_hash": "077959082a0dcea752da4c499e298ded"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_SLASH",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 6,
+                "origin_hash": "077959082a0dcea752da4c499e298ded"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "period",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 7,
+                "origin_hash": "077959082a0dcea752da4c499e298ded"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "y",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 8,
+                "origin_hash": "077959082a0dcea752da4c499e298ded"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "backslash",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 9,
+                "origin_hash": "077959082a0dcea752da4c499e298ded"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "equal",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 10,
+                "origin_hash": "077959082a0dcea752da4c499e298ded"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "u",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 11,
+                "origin_hash": "077959082a0dcea752da4c499e298ded"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "grave",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 12,
+                "origin_hash": "077959082a0dcea752da4c499e298ded"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "bracketright",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 13,
+                "origin_hash": "077959082a0dcea752da4c499e298ded"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "v",
+        "mapping_type": "key_macro"
+    }
+]
